@@ -11,19 +11,19 @@
   "author": "Benny Wu",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.2.3",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.5",
-    "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1"
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "babel-loader": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
   },
   "dependencies": {
-    "@material-ui/core": "^3.9.2",
-    "@material-ui/icons": "^3.0.2",
-    "express": "^4.16.4",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "express": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "babel": {
     "presets": [
